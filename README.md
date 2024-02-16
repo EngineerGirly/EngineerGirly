@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Girly Tambeagbor</h1>
-<h3 align="center">A passionate Software Engineer from Las Vegas</h3>
+<h3 align="center">A passionate Software Engineer from Las Vegas, Nevada</h3>
 
 <p align="left"> <a href="https://twitter.com/engineergirly" target="blank"><img src="https://img.shields.io/twitter/follow/engineergirly?logo=twitter&style=for-the-badge" alt="engineergirly" /></a> </p>
 
