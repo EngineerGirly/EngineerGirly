@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [TIC TAC TOE GAME](https://github.com/EngineerGirly/Tic-Tac-Toe-Game)
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning the **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://engineergirly.netlify.app/](https://engineergirly.netlify.app/)
 
