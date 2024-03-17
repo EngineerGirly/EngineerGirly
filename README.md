@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/engineergirly" target="blank"><img src="https://img.shields.io/twitter/follow/engineergirly?logo=twitter&style=for-the-badge" alt="engineergirly" /></a> </p>
 
-- 🔭 I’m currently working on [TIC TAC TOE GAME](https://github.com/EngineerGirly/Tic-Tac-Toe-Game)
+- 🔭 I’m currently working on a [TIC TAC TOE GAME](https://github.com/EngineerGirly/Tic-Tac-Toe-Game)
 
 - 🌱 I’m currently learning the **MERN STACK**
 
